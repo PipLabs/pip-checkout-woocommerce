@@ -13,7 +13,7 @@ Easily accept cryptocurrency payments on your WordPress Ecommerce store. No redi
 ## Description
 The Pip Checkout cryptocurrency gateway for WooCommerce makes it simple for your online store to accept cryptocurrencies like Bitcoin, Veil and Digitbyte on WordPress. Simply install and activate the plugin, paste in your wallet address(es) and click Save. You're now ready for peer to peer decentralised payments, that are 100% non-custodial, with no merchant fees, and no middlemen. 
 
-Pip Checkout's WordPress plugin also removes the need to redirect your customers to a 3rd party site to complete payment. Everything takes place on your site thanks to our [PipTX API](https://docs.pip.cash) for generates quotes. Our algorithm ensures that you can easily match each order to its corresponding payment.
+Pip Checkout's WordPress plugin also removes the need to redirect your customers to a 3rd party site to complete payment. Everything takes place on your site thanks to our [PipTX API](https://docs.pip.cash) for generating quotes. Our algorithm ensures that you can easily match each order to its corresponding payment. The information used for POST request is amount, currency and wallet address(es), as detailed in the [API documentation.]
 
 ### Merchant setup:
 1. Ensure plugin is installed and activated
