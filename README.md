@@ -54,5 +54,5 @@ If you are the customer, please contact the merchant to let them know in case th
 ### Can I change the Payment Method label and description?
 Of course, you can easily customise these at WooCommerce > Settings > Payments > Pip Checkout
 
-### How does Pip Checkout ensure that I can match payments with orders
+### How does Pip Checkout ensure that I can match payments with orders?
 Our API called PipTX houses an algorithm that ensures no quotes generated within a 15 minute sliding window are duplicates. This modifier is applied as the lowest possible decimal level to ensure no impact is seen on the USD (or whatever default currency) amount. 
