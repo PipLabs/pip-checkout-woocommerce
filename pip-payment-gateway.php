@@ -13,11 +13,11 @@
  * @package           Pip_Payment_Gateway
  *
  * @wordpress-plugin
- * Plugin Name:       Pip Woocommerce Payment Gateway
+ * Plugin Name:       Pip Checkout for WooCommerce
  * Plugin URI:        https://github.com/PipLabs/pip-checkout-woocommerce/
  * Description:       Easily accept cryptocurrency payments. Non-custodial and no merchant fees.
  * Version:           1.0.0
- * Author:            Pip Labs
+ * Author:            piplabs
  * Author URI:        https://github.com/PipLabs/pip-checkout-woocommerce/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
