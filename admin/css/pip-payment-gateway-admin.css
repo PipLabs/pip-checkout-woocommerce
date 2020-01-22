@@ -1,0 +1,10 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ #order_data .order_data_column:last-child{
+ 	padding-right: 2%!important;
+ }
+ #order_data .order_data_column:nth-child(3){
+ 	padding-right: 0%!important;
+ }
