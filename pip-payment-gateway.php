@@ -18,7 +18,7 @@
  * Description:       Easily accept cryptocurrency payments. Non-custodial and no merchant fees.
  * Version:           1.0.0
  * Author:            piplabs
- * Author URI:        https://github.com/PipLabs/pip-checkout-woocommerce/
+ * Author URI:        https://github.com/PipLabs/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       pip-payment-gateway
