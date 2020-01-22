@@ -1,6 +1,6 @@
 # Cryptocurrency Payment Gateway for WooCommerce - Pip Checkout 
 
-**Contributors:** piplabs, satoshua
+**Contributors:** piplabs
 **Tags:** bitcoin, veil, digibyte, cryptocurrency, accept bitcoin, accept veil, accept digbyte, BTC, DGB, crypto woocommerce, crypto wordpress plugin
 **Requires at least:** 3.0.1
 **Tested up to:** 3.4
