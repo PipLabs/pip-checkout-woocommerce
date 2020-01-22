@@ -44,7 +44,7 @@ We recommend using a newly created receiving address for setup. This can be eith
 2. Click Upload Plugin Zip File
 3. Upload pip-checkout-woocommerce.zip file and click “Upload Now”
 4. Go to Installed Plugins
-5. Activate the “Pip Woocommerce Payment Gateway”
+5. Activate “Pip Checkout for WooCommerce” 
 
 == Frequently Asked Questions ==
 
